@@ -1,2 +1,3 @@
 # projectgame
+đã để private 
 trang game trực tuyến sử dụng microseivces, websocket , fe: reactjs, redux,... be : springboot, django,express , devops : ci/cd, docker , k8s,teraform,aws,,db: postgredsql, redis,...
